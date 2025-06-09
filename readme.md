@@ -393,5 +393,4 @@ Dynamic pricing based on:
 - [ ] Emergency features and SOS
 - [ ] Route optimization algorithms
 - [ ] Dynamic pricing based on demand
-```
 

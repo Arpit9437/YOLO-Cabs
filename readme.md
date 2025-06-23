@@ -1,6 +1,6 @@
 # YOLO Cabs - Ride Sharing Application
 
-A comprehensive ride-sharing platform built with Node.js, featuring real-time ride matching, location services, payment processing, and rating system.
+A comprehensive ride-sharing platform built with Node.js, featuring real-time ride matching, location services and rating system.
 
 ## 🚀 Features
 
